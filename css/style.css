@@ -1,0 +1,170 @@
+/* -------------Navbar start----------- */
+
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 11%;
+	width: 80%;
+	background-color: #1A2F36
+
+}
+
+
+ul, li, a{
+	float: left;
+	text-decoration: none;
+}
+
+.nav_link a{
+	list-style: none;
+	color: white;
+}
+
+.nav_link li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+/* -------------Navbar end----------- */
+
+
+
+/* -------------Banner start----------- */
+.bannerimage{
+	position: absolute;
+	width: auto;
+	max-height: 1080px
+}
+
+.headertext{
+	color: white;
+	font-size: 50px;
+}
+
+.fiverrbutton{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: 15px 25px;
+    position: absolute;
+    margin-left: 30px
+}
+
+
+.fiverrtext{
+	color: white;
+}
+
+.githubbutton{
+	margin-left: 50px: 
+	position:relative;
+	background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px 25px;
+
+}
+.githubtext{
+	color: white;
+}
+
+.fiverr{
+	margin-bottom: 5px;
+}
+
+
+
+.herosection{
+	position: relative;
+	text-align: center;
+	padding-top: 80px;
+}
+
+
+
+button{
+	width: auto;
+	margin-right: 250px;
+	border-radius: 30px
+}
+
+/* -------------Banner end----------- */
+
+
+/* -------------Abut me Start----------- */
+
+.aboutpic{	
+	margin-top: 200px
+	margin-left: 26px
+	width: 50%
+	float: bottom right;
+	position: absolute;
+
+}
+.bannerimage{
+	position: absolute;
+	width: 100%
+}
+
+.text_container{
+	position: relative;
+	float: right;
+	width: 50%;
+	top: 450px;
+}
+
+
+h1{
+	font-color: #9CC319;
+	font-size: 45px
+	margin-top: 100px;
+
+}
+
+p{
+	font-size: 30px
+}
+
+
+
+/* -------------Portfolio/ HTML elements Reference----------- */
+
+.abbr{
+	border-bottom: 1px solid black;
+}
+
+
+.address{
+	border-bottom: 1px solid black;
+}
+
+.form{
+	border-bottom: 1px solid black;
+}
+
+.iframe{
+	border-bottom: 1px solid black;
+}
+
+.form{
+	border-bottom: 1px solid black;
+}
+
+.table{
+	border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
